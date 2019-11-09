@@ -1,0 +1,20 @@
+[Desktop Entry]
+Name=Adwaita Dark KDE transparent
+Comment=Elegant clean Plasma theme based on Adwaita color scheme.
+
+X-KDE-PluginInfo-Author=freefreeno
+X-KDE-PluginInfo-Email=https://github.com/freefreeno/Adwaita-KDE
+X-KDE-PluginInfo-Name=Adwaita-Dark-KDE-transparent
+X-KDE-PluginInfo-Version=5.63.0
+X-KDE-PluginInfo-Website=https://github.com/freefreeno/Adwaita-KDE
+X-KDE-PluginInfo-Category=
+X-KDE-PluginInfo-Depends=
+X-KDE-PluginInfo-License=GPLv3
+X-KDE-PluginInfo-EnabledByDefault=true
+X-Plasma-API=5.0
+
+[ContrastEffect]
+enabled=false
+contrast=0.2
+intensity=0.4
+saturation=1.7
